@@ -1,7 +1,4 @@
-package cl.diazfabiola;
-
-import java.util.HashMap;
-import java.util.Map;
+````java
 
 public class LibraryManager {
 
@@ -16,3 +13,5 @@ public class LibraryManager {
 
     }
 }
+
+````
